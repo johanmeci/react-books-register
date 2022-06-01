@@ -2,8 +2,8 @@ const theme = {
   //Colors
   colors: {
     backgroundPrimary: "#3f8dfd",
-    backgroundSecondary: "#161819",
-    backgroundThird: "#252728",
+    backgroundSecondary: "#040404",
+    backgroundThird: "#161819",
     backgroundThirdAlt: "#3d4142",
     colorWhite: "#f5f8f1",
     borderColor: "#DEDEDE"

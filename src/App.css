@@ -5,9 +5,15 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   height: 100vh;
+  font-size: 14px;
 }
 
 .mainContainer {
   height: 100%;
   display: flex;
+}
+
+#root {
+  display: flex;
+  height: 100%;
 }
